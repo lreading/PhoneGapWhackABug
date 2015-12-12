@@ -2,10 +2,6 @@
 A simple PhoneGap/Cordova game used as an instructional tool.  Squish some bugs to earn points...
 (Work in Progress)
 
-Whack a Bug
-=
-An intro to PhoneGap/Cordova in Visual Studio 2015
-
 Create a New Project
 =
 In Visual Studio 2015, create a new Apache Cordova project.  For this example, we will be creating “Whack a Bug.”  
